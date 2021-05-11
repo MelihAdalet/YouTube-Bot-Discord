@@ -1,5 +1,5 @@
 {
-  "TOKEN": "", // YOUR DISCORD BOT TOKEN
+  "TOKEN": "", //YOUR DISCORD BOT TOKEN
   "CHANNEL_ID": ["xxxxxxxxxxxxxxxxxxxxxxxx"], //YOUR YOUTUBE CHANNEL ID
   "SERVER_CHANNEL_ID": "xxxxxxxxxxxxxxxxx" //YOUR DISCORD CHANNEL ID
 }
