@@ -21,7 +21,7 @@ const { TOKEN, CHANNEL_ID, SERVER_CHANNEL_ID } = require("./config.json");
 const YouTubeNotifier = require('youtube-notification');
 
 const notifier = new YouTubeNotifier({
-  hubCallback: 'https://necessary-probable-slouch.glitch.me/yt',
+  hubCallback: 'https://localhost:3000/yt',
   secret: 'JOIN_MY_SERVER_OR_DIE'
 });
 
