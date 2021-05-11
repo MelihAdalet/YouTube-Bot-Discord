@@ -1,6 +1,12 @@
 # YouTube-Bot-Discord
 
 You can use this Code for your YouTube Channel to send Videos in a Channel
+
+Tutorial
+
+Need Help? Join Discord
+<iframe src="https://discord.com/widget?id=785541667863265282&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ```css
 :^)
 ```
