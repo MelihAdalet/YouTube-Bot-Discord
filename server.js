@@ -16,7 +16,7 @@ const listener = server.listen(process.env.PORT, function() {
 
 const discord = require("discord.js")
 const client = new discord.Client()
-const { TOKEN, CHANNEL_ID, SERVER_CHANNEL_ID } = require("./config.json");
+const { TOKEN, CHANNEL_ID, SERVER_CHANNEL_ID } = require("./config.json"); //Config 
 const YouTubeNotifier = require('youtube-notification');
 
 const notifier = new YouTubeNotifier({
@@ -28,7 +28,7 @@ const notifier = new YouTubeNotifier({
 notifier.on('notified', data => {
   console.log('[YouTube] New Video');
   client.channels.cache.get(SERVER_CHANNEL_ID).send(
-    `**${data.channel.name}** just uploaded a new video - **${data.video.link}**`
+    `**${data.channel.name}** just uploaded a new video - **${data.video.link}**` //Here you can personalize your message
   );
 });
  
