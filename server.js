@@ -4,7 +4,7 @@ const app = express();
 var server = http.createServer(app);
 
 app.get("/", (request, response) => {
-  console.log(`Ping Received.`);
+  console.log(`[LOG] Ping Received.`);
   response.writeHead(200, { "Content-Type": "text/plain" });
   response.end("YouTube-Bot-Discord");
 });
@@ -26,7 +26,7 @@ const notifier = new YouTubeNotifier({
 
 
 notifier.on('notified', data => {
-  console.log('New Video');
+  console.log('[YouTube] New Video');
   client.channels.cache.get(SERVER_CHANNEL_ID).send(
     `**${data.channel.name}** just uploaded a new video - **${data.video.link}**`
   );
