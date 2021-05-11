@@ -2,7 +2,7 @@
 
 You can use this Code for your YouTube Channel to send Videos in a Channel
 
-Tutorial
+Tutorial: https://youtube.com/
 
 Need Help? [Join Discord](https://discord.com/invite/exkAV5B9ez)
 
