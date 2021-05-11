@@ -5,7 +5,7 @@ You can use this Code for your YouTube Channel to send Videos in a Channel
 Need Help? [Join Discord](https://discord.com/invite/exkAV5B9ez)
 
 
-```css
+```javascript
 {
   "TOKEN": "", //YOUR DISCORD BOT TOKEN
   "CHANNEL_ID": ["xxxxxxxxxxxxxxxxxxxxxxxx"], //YOUR YOUTUBE CHANNEL ID
