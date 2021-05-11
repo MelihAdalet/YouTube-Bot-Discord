@@ -5,7 +5,7 @@ You can use this Code for your YouTube Channel to send Videos in a Channel
 Tutorial
 
 Need Help? Join Discord
- [![Join Discord]](https://discord.com/invite/exkAV5B9ez)
+ [Join Discord](https://discord.com/invite/exkAV5B9ez)
 
 ```css
 :^)
