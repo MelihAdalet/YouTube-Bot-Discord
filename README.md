@@ -12,11 +12,6 @@ Need Help? [Join Discord](https://discord.com/invite/exkAV5B9ez)
   "SERVER_CHANNEL_ID": "xxxxxxxxxxxxxxxxx" //YOUR DISCORD CHANNEL ID
 }
 ```
-The code is Free To Use
-
-```css
-:^)
-```
 
 ## 💨 Run the projects
 
